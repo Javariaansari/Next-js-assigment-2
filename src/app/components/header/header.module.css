@@ -1,0 +1,32 @@
+.navbar{
+   color: rgb(255, 255, 255);
+   
+   padding: 20px;
+   background-color:rgb(120, 5, 5);
+}
+.list{
+ 
+   margin-left: 5%;
+   font-size: 20px;
+ 
+   border-radius: 10px;
+}
+.list:hover{
+   transform: scale(1.05);
+}
+.button_login{
+   
+   margin-left: 20%;
+   background-color: rgb(255, 255, 255);
+   padding: 10px;
+   color:brown;
+   border-radius: 10px;
+
+}
+.button_signup{
+   color: brown;
+   margin-left: 5%;
+   background-color: rgb(255, 255, 255);
+ padding: 10px;
+   border-radius: 10px;
+}
